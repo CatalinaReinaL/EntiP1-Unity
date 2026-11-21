@@ -60,6 +60,12 @@
         },
         {
             "m_Id": "e52f58ffa01a44f1a5c2b2232bcda75b"
+        },
+        {
+            "m_Id": "d8434dbf39a449ffa122fbbec3beef22"
+        },
+        {
+            "m_Id": "03c49b4d34874d67bbf6a6dbfe12c405"
         }
     ],
     "m_Nodes": [
@@ -257,25 +263,67 @@
     ],
     "m_StickyNoteDatas": [
         {
-            "m_Id": "2c73943a7a404b84b17578ff531ec5ca"
-        },
-        {
             "m_Id": "b01ea24ed35f42679eb272cbb337ba94"
         },
         {
-            "m_Id": "4e844ca65ce344aa81889eae5e7700b5"
-        },
-        {
-            "m_Id": "38e13fb33a3f4886bc7eec77bfd92f75"
-        },
-        {
-            "m_Id": "fb6edc99952a443086cae28cf4353e94"
-        },
-        {
-            "m_Id": "a618e31b257549418ff74d199522f947"
-        },
-        {
             "m_Id": "dd0bda9baeae8c468d12d721766c9e0a"
+        },
+        {
+            "m_Id": "6b09ac446ff8409881ccfaa4a4b864cc"
+        },
+        {
+            "m_Id": "d4af376e24e1426dbdd9959d993027cc"
+        },
+        {
+            "m_Id": "7ea4166d7dec4c0faf8feacd22aaad91"
+        },
+        {
+            "m_Id": "de51962b324c4cb98bf06a2c8c6193e6"
+        },
+        {
+            "m_Id": "8b4cb0f3e52d4d01b5c6b7691d3844f3"
+        },
+        {
+            "m_Id": "6f0695781d114f9bbe518791bd6e74dc"
+        },
+        {
+            "m_Id": "3b48b3c225644bb59631b417a57c5302"
+        },
+        {
+            "m_Id": "eb3759fe44864a21a77c1ed35bc14c21"
+        },
+        {
+            "m_Id": "30f8527eb3614fababfbf3a69af86a49"
+        },
+        {
+            "m_Id": "93f5846677db4b23b66400cc83a5b85b"
+        },
+        {
+            "m_Id": "5f4824e94f524b1d81d9e82d19ec1d32"
+        },
+        {
+            "m_Id": "1bcabf28262c44e6b93355816a8ef9df"
+        },
+        {
+            "m_Id": "0de7cd0ceb204802aa24511796bb8971"
+        },
+        {
+            "m_Id": "7781f79e96384e9887e9f571fbebeb68"
+        },
+        {
+            "m_Id": "cb452abcbe3b47569ecca8dcfbdc3333"
+        },
+        {
+            "m_Id": "02f24dd40c524ea2bc9a71759d87e267"
+        },
+        {
+            "m_Id": "caff21bcc05c4512b57c6c18b86a4cf2"
+        },
+        {
+            "m_Id": "b359fb9bf0644d8cad87157dc4238122"
+        },
+        {
+            "m_Id": "8864388bb3324694bb04bb8d8ef97f48"
         }
     ],
     "m_Edges": [
@@ -1163,6 +1211,77 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "02f24dd40c524ea2bc9a71759d87e267",
+    "m_Title": "Repetición del tramo",
+    "m_Content": "",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -1035.0,
+        "y": 609.0,
+        "width": 344.0,
+        "height": 392.0
+    },
+    "m_Group": {
+        "m_Id": "25efb71fb69e466abbbcede4b20bc9b4"
+    }
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.CategoryData",
+    "m_ObjectId": "03c49b4d34874d67bbf6a6dbfe12c405",
+    "m_Name": "",
+    "m_ChildObjectList": [
+        {
+            "m_Id": "72beaebe220cd98bf368b1747448f312"
+        },
+        {
+            "m_Id": "537e1176c1c4bcfd784a26fa0d36b142"
+        },
+        {
+            "m_Id": "bd91b8aef09055cf8f105ff6af143f55"
+        },
+        {
+            "m_Id": "3b2a5992fc249a4234231bcd68a58b4b"
+        },
+        {
+            "m_Id": "b337b4eb865509881a774e6bac6c023b"
+        },
+        {
+            "m_Id": "c7805e913bf530864d665b913fd01f2e"
+        },
+        {
+            "m_Id": "5f4e11dad06a8634e667b47a47dc8c81"
+        },
+        {
+            "m_Id": "6d45a032f09ece6b436fa83bf733da6b"
+        },
+        {
+            "m_Id": "c3e35c18f353a994c24db6fc2f80843a"
+        },
+        {
+            "m_Id": "69d4cf0e4d2c4c98e2d2f8c3f3f7acf1"
+        },
+        {
+            "m_Id": "2f40f7378925cce65bef612f6c648056"
+        },
+        {
+            "m_Id": "7929161efb135b72aa8d20b35c1a9496"
+        },
+        {
+            "m_Id": "0c79415187fa2b978255056af3274b40"
+        },
+        {
+            "m_Id": "9424087214ebf037d99af0b0d9e13d74"
+        }
+    ]
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "04d026826c8f46399507026286f46be6",
     "m_Group": {
@@ -1173,10 +1292,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -2117.43701171875,
-            "y": -636.6832275390625,
-            "width": 157.99993896484376,
-            "height": 33.99993896484375
+            "x": -2086.000244140625,
+            "y": -1120.0001220703125,
+            "width": 179.0001220703125,
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -1460,6 +1579,26 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "0de7cd0ceb204802aa24511796bb8971",
+    "m_Title": "Onda",
+    "m_Content": "sube, baja. Y baja maximo al 2, para no perder la línea. ",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -861.0,
+        "y": 1473.0,
+        "width": 270.0,
+        "height": 417.0
+    },
+    "m_Group": {
+        "m_Id": "0fd8d34cdfe94f15ab361a44a5e1f39c"
+    }
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.DynamicVectorMaterialSlot",
     "m_ObjectId": "0e9fc97ff625448599aee20724585be4",
     "m_Id": 0,
@@ -1514,8 +1653,8 @@
     "m_ObjectId": "0fd8d34cdfe94f15ab361a44a5e1f39c",
     "m_Title": "Franja verde, parpadeo",
     "m_Position": {
-        "x": -2147.0,
-        "y": 1314.0001220703125
+        "x": -2123.0,
+        "y": 1411.0
     }
 }
 
@@ -1638,10 +1777,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -972.4368896484375,
-            "y": -806.6832275390625,
-            "width": 208.0,
-            "height": 277.9999084472656
+            "x": -974.9999389648438,
+            "y": -1340.0,
+            "width": 207.99993896484376,
+            "height": 278.0
         }
     },
     "m_Slots": [
@@ -1868,10 +2007,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -2077.0,
-            "y": -935.0,
-            "width": 128.0,
-            "height": 94.0
+            "x": -2073.000244140625,
+            "y": -1461.0001220703125,
+            "width": 184.0001220703125,
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -1904,10 +2043,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -762.0000610351563,
-            "y": 8.00000286102295,
-            "width": 130.0,
-            "height": 117.9999008178711
+            "x": -361.9999694824219,
+            "y": -286.00006103515627,
+            "width": 129.99993896484376,
+            "height": 118.00007629394531
         }
     },
     "m_Slots": [
@@ -1962,6 +2101,26 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "1bcabf28262c44e6b93355816a8ef9df",
+    "m_Title": "Onda",
+    "m_Content": "sube, baja y vuelve a subir entre 0 y 1",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -1155.0,
+        "y": 1470.0,
+        "width": 234.0,
+        "height": 345.0
+    },
+    "m_Group": {
+        "m_Id": "0fd8d34cdfe94f15ab361a44a5e1f39c"
+    }
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.MultiplyNode",
     "m_ObjectId": "1e4dfb9bf178463a89bee825bb36a2ea",
     "m_Group": {
@@ -1972,10 +2131,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1472.4368896484375,
-            "y": 1373.3167724609375,
-            "width": 126.0001220703125,
-            "height": 118.00006103515625
+            "x": -1370.0001220703125,
+            "y": 1580.0,
+            "width": 126.0,
+            "height": 117.9998779296875
         }
     },
     "m_Slots": [
@@ -2015,9 +2174,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -2121.999755859375,
-            "y": 1436.9998779296875,
-            "width": 195.9998779296875,
+            "x": -2098.0,
+            "y": 1650.9998779296875,
+            "width": 195.999755859375,
             "height": 34.0001220703125
         }
     },
@@ -2099,10 +2258,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1442.4368896484375,
-            "y": 673.3167724609375,
-            "width": 129.999755859375,
-            "height": 117.99993896484375
+            "x": -1442.0,
+            "y": 674.0000610351563,
+            "width": 126.0,
+            "height": 118.0
         }
     },
     "m_Slots": [
@@ -2142,10 +2301,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -737.4368896484375,
-            "y": -806.6832275390625,
-            "width": 207.99993896484376,
-            "height": 301.9999084472656
+            "x": -399.0,
+            "y": -1345.0,
+            "width": 208.0,
+            "height": 302.0
         }
     },
     "m_Slots": [
@@ -2203,10 +2362,10 @@
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.GroupData",
     "m_ObjectId": "25efb71fb69e466abbbcede4b20bc9b4",
-    "m_Title": "Franja verde | Repeticion, giro y grosor",
+    "m_Title": "Franja verde, Repeticion, giro y grosor",
     "m_Position": {
-        "x": -2142.0,
-        "y": 472.0
+        "x": -2164.0,
+        "y": 411.0
     }
 }
 
@@ -2327,26 +2486,6 @@
 
 {
     "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
-    "m_ObjectId": "2c73943a7a404b84b17578ff531ec5ca",
-    "m_Title": "Azul | Cantidad e inclinación",
-    "m_Content": "Round convierte Stripe Count en un número entero.\nLos Multiply hacen V × cantidad y U × giro.\nEl giro azul se redondea para cerrar la costura de U.\nEl primer Add suma ambas coordenadas. Así se inclina la raya.",
-    "m_TextSize": 0,
-    "m_Theme": 0,
-    "m_Position": {
-        "serializedVersion": "2",
-        "x": -1414.4368896484375,
-        "y": -946.6832275390625,
-        "width": 520.0,
-        "height": 122.0
-    },
-    "m_Group": {
-        "m_Id": "a8e9fa85647f47b3a6b13e5201b9fa94"
-    }
-}
-
-{
-    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.DynamicValueMaterialSlot",
     "m_ObjectId": "2c82d6d92985457f8b2ec9b4578d479e",
     "m_Id": 2,
@@ -2405,10 +2544,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -157.4368896484375,
-            "y": 318.3167419433594,
-            "width": 126.00010681152344,
-            "height": 118.00003051757813
+            "x": 328.0,
+            "y": 522.9999389648438,
+            "width": 207.99993896484376,
+            "height": 302.00006103515627
         }
     },
     "m_Slots": [
@@ -2424,7 +2563,7 @@
     ],
     "synonyms": [],
     "m_Precision": 0,
-    "m_PreviewExpanded": false,
+    "m_PreviewExpanded": true,
     "m_DismissedVersion": 0,
     "m_PreviewMode": 0,
     "m_CustomColors": {
@@ -2499,6 +2638,26 @@
     "m_EnumValues": [
         0
     ]
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "30f8527eb3614fababfbf3a69af86a49",
+    "m_Title": "Onda",
+    "m_Content": "sube, baja. Y baja maximo al 2, para no perder la línea. ",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -796.0,
+        "y": -725.0,
+        "width": 270.0,
+        "height": 417.0
+    },
+    "m_Group": {
+        "m_Id": "9adf164d57dd4b7b9a72a9830883ce72"
+    }
 }
 
 {
@@ -2583,10 +2742,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1687.4368896484375,
-            "y": 543.3167724609375,
-            "width": 126.0001220703125,
-            "height": 118.00006103515625
+            "x": -1665.9998779296875,
+            "y": 526.0,
+            "width": 126.0,
+            "height": 117.99993896484375
         }
     },
     "m_Slots": [
@@ -2636,26 +2795,6 @@
     },
     "m_Labels": [],
     "m_Space": 0
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
-    "m_ObjectId": "38e13fb33a3f4886bc7eec77bfd92f75",
-    "m_Title": "Salida | Lerp y Alpha Clipping",
-    "m_Content": "Multiply recorta el color verde con su máscara.\nLerp recibe verde en A y azul en B. La máscara azul entra en T y elige azul donde vale 1.\nMaximum reúne las dos máscaras y va a Alpha. Alpha Clipping recorta los huecos donde ambas valen 0.",
-    "m_TextSize": 0,
-    "m_Theme": 0,
-    "m_Position": {
-        "serializedVersion": "2",
-        "x": -177.4368896484375,
-        "y": 518.3167724609375,
-        "width": 385.0,
-        "height": 142.0
-    },
-    "m_Group": {
-        "m_Id": "7db44152f37841f2bca1c79f3edf6037"
-    }
 }
 
 {
@@ -2711,10 +2850,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1472.0,
-            "y": -101.99999237060547,
+            "x": -1298.0001220703125,
+            "y": -674.0000610351563,
             "width": 126.0,
-            "height": 117.99989318847656
+            "height": 118.0
         }
     },
     "m_Slots": [
@@ -2784,6 +2923,26 @@
     "m_EnumValues": [
         0
     ]
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "3b48b3c225644bb59631b417a57c5302",
+    "m_Title": "Onda",
+    "m_Content": "sube, baja y vuelve a subir entre −5 y 0.5",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -1369.0,
+        "y": -727.0,
+        "width": 233.600830078125,
+        "height": 345.0
+    },
+    "m_Group": {
+        "m_Id": "9adf164d57dd4b7b9a72a9830883ce72"
+    }
 }
 
 {
@@ -3099,10 +3258,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1252.0,
-            "y": -101.99999237060547,
+            "x": -1054.0001220703125,
+            "y": -673.0000610351563,
             "width": 126.0,
-            "height": 117.99989318847656
+            "height": 118.0
         }
     },
     "m_Slots": [
@@ -3412,26 +3571,6 @@
 
 {
     "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
-    "m_ObjectId": "4e844ca65ce344aa81889eae5e7700b5",
-    "m_Title": "Verde | Cómo se dibujan las rayas",
-    "m_Content": "Round redondea la cantidad. Los Multiply hacen U × cantidad y V × giro. El primer Add los suma.\nEl segundo Add suma Time × Scroll Speed para mover el patrón.\nFraction repite el patrón. Step lo corta al grosor verde y saca la máscara de 0 o 1.",
-    "m_TextSize": 0,
-    "m_Theme": 0,
-    "m_Position": {
-        "serializedVersion": "2",
-        "x": -1414.4368896484375,
-        "y": 531.3167724609375,
-        "width": 520.0,
-        "height": 122.0
-    },
-    "m_Group": {
-        "m_Id": "25efb71fb69e466abbbcede4b20bc9b4"
-    }
-}
-
-{
-    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.DynamicValueMaterialSlot",
     "m_ObjectId": "4eeb056324674c3bbb3227d5310515e3",
     "m_Id": 1,
@@ -3593,10 +3732,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -737.4368896484375,
-            "y": 673.3167724609375,
-            "width": 207.99993896484376,
-            "height": 301.9999084472656
+            "x": -480.0000915527344,
+            "y": 670.9999389648438,
+            "width": 208.00009155273438,
+            "height": 302.00006103515627
         }
     },
     "m_Slots": [
@@ -3788,10 +3927,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1687.4368896484375,
-            "y": -936.6832275390625,
-            "width": 126.0001220703125,
-            "height": 118.00006103515625
+            "x": -1658.0001220703125,
+            "y": -1472.0001220703125,
+            "width": 126.0,
+            "height": 118.0
         }
     },
     "m_Slots": [
@@ -3856,10 +3995,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -972.4368896484375,
-            "y": -536.6832275390625,
-            "width": 157.99993896484376,
-            "height": 33.99993896484375
+            "x": -668.0,
+            "y": -1226.0,
+            "width": 183.0,
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -3928,6 +4067,26 @@
         "w": 0.0
     },
     "m_LiteralMode": false
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "5f4824e94f524b1d81d9e82d19ec1d32",
+    "m_Title": "Onda",
+    "m_Content": "sube, baja y vuelve a subir entre −5 y 0.5",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -1433.0,
+        "y": 1470.0,
+        "width": 234.0,
+        "height": 345.0
+    },
+    "m_Group": {
+        "m_Id": "0fd8d34cdfe94f15ab361a44a5e1f39c"
+    }
 }
 
 {
@@ -4237,6 +4396,26 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "6b09ac446ff8409881ccfaa4a4b864cc",
+    "m_Title": "Controla la repetición",
+    "m_Content": "Recorre X ciclos entre los polos (V)",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -2093.0,
+        "y": -1537.0,
+        "width": 589.0,
+        "height": 214.0
+    },
+    "m_Group": {
+        "m_Id": "a8e9fa85647f47b3a6b13e5201b9fa94"
+    }
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.DynamicValueMaterialSlot",
     "m_ObjectId": "6bbe7c50bc4e4f9eaf33a62af60b9fca",
     "m_Id": 0,
@@ -4295,10 +4474,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1897.4368896484375,
-            "y": -636.6832275390625,
-            "width": 126.0001220703125,
-            "height": 118.00006103515625
+            "x": -1883.0001220703125,
+            "y": -1143.0001220703125,
+            "width": 128.0,
+            "height": 94.0
         }
     },
     "m_Slots": [
@@ -4331,10 +4510,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -2117.43701171875,
-            "y": 843.3167724609375,
-            "width": 157.99993896484376,
-            "height": 33.99993896484375
+            "x": -2076.999755859375,
+            "y": 886.9999389648438,
+            "width": 194.9998779296875,
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -4367,10 +4546,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1687.4368896484375,
-            "y": 843.3167724609375,
-            "width": 126.0001220703125,
-            "height": 118.00006103515625
+            "x": -1742.0,
+            "y": 839.0000610351563,
+            "width": 126.0,
+            "height": 118.0
         }
     },
     "m_Slots": [
@@ -4551,6 +4730,26 @@
         "e31": 0.0,
         "e32": 0.0,
         "e33": 1.0
+    }
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "6f0695781d114f9bbe518791bd6e74dc",
+    "m_Title": "Onda",
+    "m_Content": "sube, baja y vuelve a subir entre −1 y 1",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -1678.0,
+        "y": -721.0,
+        "width": 237.0,
+        "height": 345.0468444824219
+    },
+    "m_Group": {
+        "m_Id": "9adf164d57dd4b7b9a72a9830883ce72"
     }
 }
 
@@ -4810,6 +5009,26 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "7781f79e96384e9887e9f571fbebeb68",
+    "m_Title": "Cantidad de rayas",
+    "m_Content": "Cuanats veces U sa vuelta a la esfera.",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -2135.0,
+        "y": 470.0,
+        "width": 641.0,
+        "height": 262.0
+    },
+    "m_Group": {
+        "m_Id": "25efb71fb69e466abbbcede4b20bc9b4"
+    }
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.DynamicVectorMaterialSlot",
     "m_ObjectId": "78f9d2e74fdb44ec9b607f426b381eba",
     "m_Id": 0,
@@ -4937,10 +5156,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1917.4368896484375,
-            "y": 1373.3167724609375,
-            "width": 126.0001220703125,
-            "height": 118.00006103515625
+            "x": -1893.0001220703125,
+            "y": 1586.9998779296875,
+            "width": 126.0,
+            "height": 118.0001220703125
         }
     },
     "m_Slots": [
@@ -5015,8 +5234,28 @@
     "m_ObjectId": "7db44152f37841f2bca1c79f3edf6037",
     "m_Title": "Combinar franjas | Lerp y Alpha",
     "m_Position": {
-        "x": -202.0001220703125,
-        "y": -36.000030517578128
+        "x": 210.0,
+        "y": -73.0
+    }
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "7ea4166d7dec4c0faf8feacd22aaad91",
+    "m_Title": "Convertir en rayas",
+    "m_Content": "Crea cuatro degradados. Cada vez que el valor llega a un entero, vuelve a cero.",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -1008.0,
+        "y": -1480.0,
+        "width": 291.0,
+        "height": 447.2579345703125
+    },
+    "m_Group": {
+        "m_Id": "a8e9fa85647f47b3a6b13e5201b9fa94"
     }
 }
 
@@ -5221,10 +5460,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1699.0,
-            "y": -500.00006103515627,
+            "x": -1690.0,
+            "y": -952.0,
             "width": 126.0,
-            "height": 118.00009155273438
+            "height": 118.0
         }
     },
     "m_Slots": [
@@ -5264,10 +5503,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1916.9998779296875,
-            "y": 142.99993896484376,
+            "x": -1844.000244140625,
+            "y": -282.0000915527344,
             "width": 130.0,
-            "height": 118.00003051757813
+            "height": 118.00007629394531
         }
     },
     "m_Slots": [
@@ -5292,6 +5531,26 @@
     "m_PreviewMode": 0,
     "m_CustomColors": {
         "m_SerializableColors": []
+    }
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "8864388bb3324694bb04bb8d8ef97f48",
+    "m_Title": "recibe las máscaras de A y B",
+    "m_Content": "recibe las máscaras azul y verde y se queda con el número mayor.",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": 243.0,
+        "y": 438.0,
+        "width": 391.0,
+        "height": 398.0
+    },
+    "m_Group": {
+        "m_Id": "7db44152f37841f2bca1c79f3edf6037"
     }
 }
 
@@ -5355,10 +5614,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1442.4368896484375,
-            "y": -806.6832275390625,
-            "width": 129.999755859375,
-            "height": 117.99993896484375
+            "x": -1413.0001220703125,
+            "y": -1341.0001220703125,
+            "width": 126.0,
+            "height": 118.0
         }
     },
     "m_Slots": [
@@ -5409,6 +5668,26 @@
         "w": 0.0
     },
     "m_LiteralMode": false
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "8b4cb0f3e52d4d01b5c6b7691d3844f3",
+    "m_Title": "Cantidad de blanco",
+    "m_Content": "Blanco= Raya",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -675.0,
+        "y": -1325.0,
+        "width": 200.0,
+        "height": 159.0
+    },
+    "m_Group": {
+        "m_Id": "a8e9fa85647f47b3a6b13e5201b9fa94"
+    }
 }
 
 {
@@ -5464,10 +5743,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1916.9998779296875,
-            "y": -101.99999237060547,
-            "width": 125.9998779296875,
-            "height": 117.99989318847656
+            "x": -1892.9998779296875,
+            "y": -657.9999389648438,
+            "width": 126.0,
+            "height": 118.0
         }
     },
     "m_Slots": [
@@ -5677,10 +5956,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1027.4368896484375,
-            "y": 1373.3167724609375,
-            "width": 126.00010681152344,
-            "height": 118.00003051757813
+            "x": -823.9999389648438,
+            "y": 1575.9998779296875,
+            "width": 207.99993896484376,
+            "height": 302.0
         }
     },
     "m_Slots": [
@@ -5696,7 +5975,7 @@
     ],
     "synonyms": [],
     "m_Precision": 0,
-    "m_PreviewExpanded": false,
+    "m_PreviewExpanded": true,
     "m_DismissedVersion": 0,
     "m_PreviewMode": 0,
     "m_CustomColors": {
@@ -5746,6 +6025,26 @@
     "m_PreviewMode": 0,
     "m_CustomColors": {
         "m_SerializableColors": []
+    }
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "93f5846677db4b23b66400cc83a5b85b",
+    "m_Title": "Onda",
+    "m_Content": "sube, baja y vuelve a subir entre −1 y 1",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -1742.0,
+        "y": 1476.0,
+        "width": 237.0,
+        "height": 345.0
+    },
+    "m_Group": {
+        "m_Id": "0fd8d34cdfe94f15ab361a44a5e1f39c"
     }
 }
 
@@ -5982,8 +6281,8 @@
     "m_ObjectId": "9adf164d57dd4b7b9a72a9830883ce72",
     "m_Title": "Franja azul, parpadeo",
     "m_Position": {
-        "x": -2142.0,
-        "y": -161.00003051757813
+        "x": -2118.0,
+        "y": -786.0
     }
 }
 
@@ -6136,10 +6435,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -2117.0,
-            "y": 217.9998779296875,
-            "width": 232.0001220703125,
-            "height": 146.00003051757813
+            "x": -2044.0001220703125,
+            "y": -236.99996948242188,
+            "width": 163.0001220703125,
+            "height": 33.999969482421878
         }
     },
     "m_Slots": [
@@ -6157,26 +6456,6 @@
     },
     "m_Property": {
         "m_Id": "537e1176c1c4bcfd784a26fa0d36b142"
-    }
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
-    "m_ObjectId": "a618e31b257549418ff74d199522f947",
-    "m_Title": "Verde | Cadena de parpadeo",
-    "m_Content": "Time × Blink Speed fija el ritmo verde. Sine crea su propia onda.\nMultiply × 0,5 y Add 0,5 la llevan a 0–1. Maximum deja un mínimo de 0,2.\nColor × Intensity da el brillo base. El último Multiply aplica el pulso verde.",
-    "m_TextSize": 0,
-    "m_Theme": 0,
-    "m_Position": {
-        "serializedVersion": "2",
-        "x": -1677.4368896484375,
-        "y": 1578.3167724609375,
-        "width": 625.0,
-        "height": 126.0
-    },
-    "m_Group": {
-        "m_Id": "0fd8d34cdfe94f15ab361a44a5e1f39c"
     }
 }
 
@@ -6245,8 +6524,8 @@
     "m_ObjectId": "a8e9fa85647f47b3a6b13e5201b9fa94",
     "m_Title": "Franja azul, repeticion, giro y grosor",
     "m_Position": {
-        "x": -2142.0,
-        "y": -1006.0
+        "x": -2121.0,
+        "y": -1596.0
     }
 }
 
@@ -6352,16 +6631,16 @@
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
     "m_ObjectId": "b01ea24ed35f42679eb272cbb337ba94",
-    "m_Title": "Azul | Movimiento, repetición y grosor",
-    "m_Content": "Time × Scroll Speed desplaza el patrón. El segundo Add suma ese desplazamiento.\nFraction se queda con el decimal y vuelve a empezar en cada vuelta.\nStep deja pasar los valores de Fraction menores o iguales que Stripe Width. Raya = 1, hueco = 0.",
+    "m_Title": "Velocidad de desplazamineto",
+    "m_Content": "",
     "m_TextSize": 0,
     "m_Theme": 0,
     "m_Position": {
         "serializedVersion": "2",
-        "x": -1387.4368896484375,
-        "y": -461.6832275390625,
+        "x": -2096.0,
+        "y": -990.0,
         "width": 555.0,
-        "height": 123.0
+        "height": 176.0
     },
     "m_Group": {
         "m_Id": "a8e9fa85647f47b3a6b13e5201b9fa94"
@@ -6380,10 +6659,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1917.4368896484375,
-            "y": 1618.3167724609375,
-            "width": 126.0001220703125,
-            "height": 118.00006103515625
+            "x": -1893.0001220703125,
+            "y": 1832.0,
+            "width": 130.0,
+            "height": 118.0001220703125
         }
     },
     "m_Slots": [
@@ -6457,6 +6736,26 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "b359fb9bf0644d8cad87157dc4238122",
+    "m_Title": "Elección de color",
+    "m_Content": "A, recibe el color verde, B, recibe el color azul. 0=A azul, 1= B. El azul va por encima del verde.",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": 235.0,
+        "y": -14.0,
+        "width": 391.0,
+        "height": 398.0
+    },
+    "m_Group": {
+        "m_Id": "7db44152f37841f2bca1c79f3edf6037"
+    }
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.DynamicVectorMaterialSlot",
     "m_ObjectId": "b35f49409bff4461a88ab96c72ef6f4c",
     "m_Id": 2,
@@ -6492,10 +6791,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -157.4368896484375,
-            "y": 23.316741943359376,
-            "width": 129.999755859375,
-            "height": 117.99993896484375
+            "x": 312.0,
+            "y": 54.0,
+            "width": 208.00006103515626,
+            "height": 326.0
         }
     },
     "m_Slots": [
@@ -6518,7 +6817,7 @@
         "linear interpolate"
     ],
     "m_Precision": 0,
-    "m_PreviewExpanded": false,
+    "m_PreviewExpanded": true,
     "m_DismissedVersion": 0,
     "m_PreviewMode": 0,
     "m_CustomColors": {
@@ -6754,10 +7053,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1207.4368896484375,
-            "y": -806.6832275390625,
-            "width": 129.999755859375,
-            "height": 117.99993896484375
+            "x": -1178.0,
+            "y": -1341.0001220703125,
+            "width": 126.0,
+            "height": 118.0
         }
     },
     "m_Slots": [
@@ -6891,10 +7190,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1027.0,
-            "y": -101.99999237060547,
-            "width": 126.0,
-            "height": 117.99989318847656
+            "x": -754.0,
+            "y": -652.0,
+            "width": 208.0,
+            "height": 302.0
         }
     },
     "m_Slots": [
@@ -6910,7 +7209,7 @@
     ],
     "synonyms": [],
     "m_Precision": 0,
-    "m_PreviewExpanded": false,
+    "m_PreviewExpanded": true,
     "m_DismissedVersion": 0,
     "m_PreviewMode": 0,
     "m_CustomColors": {
@@ -7095,10 +7394,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -2111.0,
-            "y": -436.0000305175781,
+            "x": -2079.0,
+            "y": -888.0,
             "width": 184.0,
-            "height": 34.00006103515625
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -7156,10 +7455,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -2117.43701171875,
-            "y": 1693.3167724609375,
-            "width": 157.99993896484376,
-            "height": 33.99993896484375
+            "x": -2093.000244140625,
+            "y": 1906.9998779296875,
+            "width": 179.0,
+            "height": 34.0001220703125
         }
     },
     "m_Slots": [
@@ -7182,6 +7481,46 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "caff21bcc05c4512b57c6c18b86a4cf2",
+    "m_Title": "Tramo que es pintado",
+    "m_Content": "",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -576.0,
+        "y": 615.0,
+        "width": 344.0,
+        "height": 392.0
+    },
+    "m_Group": {
+        "m_Id": "25efb71fb69e466abbbcede4b20bc9b4"
+    }
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "cb452abcbe3b47569ecca8dcfbdc3333",
+    "m_Title": "Controla la inclinación",
+    "m_Content": "Utilizamos V, veces que va de polo a polo",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -2139.0,
+        "y": 793.0,
+        "width": 588.9998779296875,
+        "height": 214.0
+    },
+    "m_Group": {
+        "m_Id": "25efb71fb69e466abbbcede4b20bc9b4"
+    }
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
     "m_ObjectId": "cc4ba230671b4ff5b53c5736973cce14",
     "m_Group": {
@@ -7192,10 +7531,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -2117.0,
-            "y": 142.99993896484376,
-            "width": 208.0001220703125,
-            "height": 124.99996948242188
+            "x": -2045.0001220703125,
+            "y": -334.0,
+            "width": 148.0,
+            "height": 34.000030517578128
         }
     },
     "m_Slots": [
@@ -7228,10 +7567,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1252.4368896484375,
-            "y": 1373.3167724609375,
-            "width": 129.999755859375,
-            "height": 117.99993896484375
+            "x": -1121.000244140625,
+            "y": 1579.0,
+            "width": 126.0,
+            "height": 118.0001220703125
         }
     },
     "m_Slots": [
@@ -7271,10 +7610,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -972.4368896484375,
-            "y": 943.3167724609375,
-            "width": 157.99993896484376,
-            "height": 33.99993896484375
+            "x": -688.0,
+            "y": 937.9999389648438,
+            "width": 199.00003051757813,
+            "height": 34.00006103515625
         }
     },
     "m_Slots": [
@@ -7323,10 +7662,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -762.4368896484375,
-            "y": 1483.3167724609375,
-            "width": 126.0001220703125,
-            "height": 118.00006103515625
+            "x": -450.0002136230469,
+            "y": 1685.0,
+            "width": 130.00006103515626,
+            "height": 118.0
         }
     },
     "m_Slots": [
@@ -7366,10 +7705,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -2117.43701171875,
-            "y": 1128.3167724609375,
-            "width": 157.99993896484376,
-            "height": 33.99993896484375
+            "x": -1921.0,
+            "y": 1171.0,
+            "width": 200.0,
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -7392,6 +7731,26 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "d4af376e24e1426dbdd9959d993027cc",
+    "m_Title": "Controla el giro",
+    "m_Content": "Utilizamos U",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -2096.0,
+        "y": -1232.0,
+        "width": 589.0,
+        "height": 214.0
+    },
+    "m_Group": {
+        "m_Id": "a8e9fa85647f47b3a6b13e5201b9fa94"
+    }
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.SineNode",
     "m_ObjectId": "d555f96db3d84797a54e3f6432a58ef6",
     "m_Group": {
@@ -7402,9 +7761,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1692.4368896484375,
-            "y": 1373.3167724609375,
-            "width": 128.00006103515626,
+            "x": -1697.000244140625,
+            "y": 1584.0001220703125,
+            "width": 128.0,
             "height": 94.0
         }
     },
@@ -7428,6 +7787,57 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.CategoryData",
+    "m_ObjectId": "d8434dbf39a449ffa122fbbec3beef22",
+    "m_Name": "",
+    "m_ChildObjectList": [
+        {
+            "m_Id": "72beaebe220cd98bf368b1747448f312"
+        },
+        {
+            "m_Id": "537e1176c1c4bcfd784a26fa0d36b142"
+        },
+        {
+            "m_Id": "bd91b8aef09055cf8f105ff6af143f55"
+        },
+        {
+            "m_Id": "3b2a5992fc249a4234231bcd68a58b4b"
+        },
+        {
+            "m_Id": "b337b4eb865509881a774e6bac6c023b"
+        },
+        {
+            "m_Id": "c7805e913bf530864d665b913fd01f2e"
+        },
+        {
+            "m_Id": "5f4e11dad06a8634e667b47a47dc8c81"
+        },
+        {
+            "m_Id": "6d45a032f09ece6b436fa83bf733da6b"
+        },
+        {
+            "m_Id": "c3e35c18f353a994c24db6fc2f80843a"
+        },
+        {
+            "m_Id": "69d4cf0e4d2c4c98e2d2f8c3f3f7acf1"
+        },
+        {
+            "m_Id": "2f40f7378925cce65bef612f6c648056"
+        },
+        {
+            "m_Id": "7929161efb135b72aa8d20b35c1a9496"
+        },
+        {
+            "m_Id": "0c79415187fa2b978255056af3274b40"
+        },
+        {
+            "m_Id": "9424087214ebf037d99af0b0d9e13d74"
+        }
+    ]
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.SineNode",
     "m_ObjectId": "dc18b46aad3440bdbbb1a805e401ebb5",
     "m_Group": {
@@ -7438,10 +7848,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1692.0,
-            "y": -101.99999237060547,
-            "width": 128.0,
-            "height": 93.99992370605469
+            "x": -1639.000244140625,
+            "y": -667.0,
+            "width": 128.0001220703125,
+            "height": 94.0
         }
     },
     "m_Slots": [
@@ -7491,16 +7901,16 @@
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
     "m_ObjectId": "dd0bda9baeae8c468d12d721766c9e0a",
-    "m_Title": "UV y Time | Entradas",
-    "m_Content": "UV toma las coordenadas de la esfera.\nSplit separa U (R, alrededor) y V (G, de polo a polo).\nTime alimenta el movimiento y el brillo de ambas franjas.",
+    "m_Title": "UV y Split",
+    "m_Content": "UV0 toma las coordenadas de la esfera. Split separa los ejes. R = U (alrededor), G = V (de polo a polo). ",
     "m_TextSize": 0,
     "m_Theme": 0,
     "m_Position": {
         "serializedVersion": "2",
-        "x": -2635.0,
-        "y": -525.0,
+        "x": -2639.0,
+        "y": -831.0,
         "width": 385.0,
-        "height": 165.0
+        "height": 100.0
     },
     "m_Group": {
         "m_Id": "ddfca4b1867b410a9f9a8f14afa870c6"
@@ -7513,8 +7923,28 @@
     "m_ObjectId": "ddfca4b1867b410a9f9a8f14afa870c6",
     "m_Title": " UV de la esfera y Time",
     "m_Position": {
-        "x": -2661.0,
-        "y": -767.0
+        "x": -2664.0,
+        "y": -890.0
+    }
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "de51962b324c4cb98bf06a2c8c6193e6",
+    "m_Title": "Degradado de rayas a bordes duros",
+    "m_Content": "Crea cuatro degradados. Cada vez que el valor llega a un entero, vuelve a cero.",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -426.0,
+        "y": -1482.0,
+        "width": 291.0,
+        "height": 447.0
+    },
+    "m_Group": {
+        "m_Id": "a8e9fa85647f47b3a6b13e5201b9fa94"
     }
 }
 
@@ -7578,10 +8008,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -2117.0,
-            "y": -101.99999237060547,
-            "width": 232.0001220703125,
-            "height": 146.00001525878907
+            "x": -2093.0,
+            "y": -657.9999389648438,
+            "width": 180.0001220703125,
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -7756,8 +8186,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1857.0,
-            "y": -935.0,
+            "x": -1828.0001220703125,
+            "y": -1469.0001220703125,
             "width": 128.0,
             "height": 94.0
         }
@@ -7792,10 +8222,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -397.4368896484375,
-            "y": 668.3167724609375,
-            "width": 126.0001220703125,
-            "height": 118.00006103515625
+            "x": -109.0,
+            "y": 656.0,
+            "width": 129.99984741210938,
+            "height": 117.99993896484375
         }
     },
     "m_Slots": [
@@ -7846,6 +8276,26 @@
         "w": 0.0
     },
     "m_LiteralMode": false
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "eb3759fe44864a21a77c1ed35bc14c21",
+    "m_Title": "Onda",
+    "m_Content": "sube, baja y vuelve a subir entre 0 y 1",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -1090.0,
+        "y": -727.0,
+        "width": 234.0,
+        "height": 345.0
+    },
+    "m_Group": {
+        "m_Id": "9adf164d57dd4b7b9a72a9830883ce72"
+    }
 }
 
 {
@@ -7956,10 +8406,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1687.4368896484375,
-            "y": -636.6832275390625,
-            "width": 126.0001220703125,
-            "height": 118.00006103515625
+            "x": -1658.0001220703125,
+            "y": -1171.0001220703125,
+            "width": 126.0,
+            "height": 118.0
         }
     },
     "m_Slots": [
@@ -8143,10 +8593,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -2117.43701171875,
-            "y": 1618.3167724609375,
-            "width": 157.99993896484376,
-            "height": 33.99993896484375
+            "x": -2093.000244140625,
+            "y": 1832.0,
+            "width": 164.0001220703125,
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -8333,26 +8783,6 @@
     "m_DefaultValue": 0.0,
     "m_Labels": [],
     "m_LiteralMode": false
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
-    "m_ObjectId": "fb6edc99952a443086cae28cf4353e94",
-    "m_Title": "Azul | Cadena de parpadeo",
-    "m_Content": "Time × Blink Speed fija el ritmo. Sine lo convierte en una onda de −1 a 1.\nMultiply por 0,5 y Add 0,5 convierten la onda a 0–1.\nMaximum fija un mínimo de 0,2 para que nunca se apague del todo.\nColor × Intensity da el brillo base. El último Multiply lo multiplica por la onda.",
-    "m_TextSize": 0,
-    "m_Theme": 0,
-    "m_Position": {
-        "serializedVersion": "2",
-        "x": -1677.0,
-        "y": 106.0,
-        "width": 625.0,
-        "height": 128.0
-    },
-    "m_Group": {
-        "m_Id": "9adf164d57dd4b7b9a72a9830883ce72"
-    }
 }
 
 {
